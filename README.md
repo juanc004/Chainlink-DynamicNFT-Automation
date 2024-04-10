@@ -11,7 +11,7 @@ Create a Dynamic NFT that evolves over time using Chainlink Automation. This pro
 
 ### Minting Your NFT
 
-1. **SafeMint Function**: Call `safeMint` with your wallet address to mint your NFT.
+1. **SafeMint Function**: Call `safeMint` with your injected provider wallet (ex. Metamask) address to mint your NFT.
 2. **Contract Address**: Copy the deployed contract address.
 3. **View on OpenSea**: Go to [testnets.opensea.io](https://testnets.opensea.io/) and paste your contract address in the search bar to view your NFT. Ensure the Token ID is 0.
 
